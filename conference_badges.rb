@@ -33,3 +33,5 @@ def printer
     puts value
   end
 end
+
+printer
